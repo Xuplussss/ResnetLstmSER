@@ -1,6 +1,6 @@
 # Speech Emotion Recognition Considering Nonverbal Vocalization in Affective Conversations
 
-!["our proposed system frameworks"](https://github.com/Xuplussss/ResnetLstmSER/tree/main/non_verbal_SER/SF.png?raw=true)
+!["our proposed system frameworks"](https://github.com/Xuplussss/ResnetLstmSER/tree/main/non_verbal_SER/SF.PNG?raw=true)
 
 ## Requirements
 - Python >= 2.7
